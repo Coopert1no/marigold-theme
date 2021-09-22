@@ -1,0 +1,22 @@
+{
+    "name": "marigold-theme",
+    "displayName": "Marigold Theme",
+    "description": "Dark theme.",
+    "version": "0.0.1",
+    "publisher": "Coopert1no",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Marigold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Marigold-color-theme.json"
+            }
+        ]
+    }
+}
