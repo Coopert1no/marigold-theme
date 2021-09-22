@@ -4,11 +4,20 @@
     "description": "Dark theme.",
     "version": "0.0.1",
     "publisher": "Coopert1no",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Coopert1no/marigold-theme"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark",
+        "Night"
     ],
     "contributes": {
         "themes": [
